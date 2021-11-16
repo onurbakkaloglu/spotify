@@ -5,7 +5,7 @@ const Content = () => {
     return (
         <main className="flex-auto">
             <Navbar/>
-            contentfhgmjdfghdfhdfdfghdfghgsdfasdf
+            contentfhgmjdadsfasdfsadffghdfhdfdfghdfghgsdfasdf
         </main>
     )
 }
